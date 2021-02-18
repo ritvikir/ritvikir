@@ -5,10 +5,12 @@
 
 # Heyo, I'm Ritvik 👋
 
+### I'm a high-schooler from San Diego!
+
 <!--
 **ririgireddy/ririgireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### I'm a high-schooler from San Diego!
+
 
 
 
