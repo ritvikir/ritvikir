@@ -1,4 +1,7 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=ririgireddy&theme=dracula" />
+
+
+### Heyo, I'm Ritvik 👋
 
 <!--
 **ririgireddy/ririgireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
