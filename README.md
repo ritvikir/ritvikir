@@ -1,4 +1,8 @@
+<a>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ririgireddy&theme=tokyonight&show_icons=true&count_private=true">
+</a>
+
+
 # Heyo, I'm Ritvik 👋
 
 <!--
