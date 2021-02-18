@@ -1,6 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=ririgireddy&theme=dracula" />
-
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=ririgireddy&theme=tokyonight&show_icons=true&count_private=true)
 ### Heyo, I'm Ritvik 👋
 
 <!--
