@@ -1,8 +1,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ririgireddy&theme=tokyonight&show_icons=true&count_private=true">
-### Heyo, I'm Ritvik 👋
+# Heyo, I'm Ritvik 👋
 
 <!--
 **ririgireddy/ririgireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### I'm a high-schooler from San Diego!
+
+
 
 Here are some ideas to get you started:
 
