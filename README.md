@@ -11,6 +11,7 @@
 - Learning Tensorflow and ML
 - Trying to get to 1000 commits
 - Building a Discord Bot
+![](https://komarev.com/ghpvc/?username=ririgireddy)
 
 <!--
 **ririgireddy/ririgireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
