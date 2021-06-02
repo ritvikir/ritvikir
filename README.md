@@ -12,7 +12,7 @@
 - Trying to get to 1000 commits
 - Building a Discord Bot
 
-![](https://komarev.com/ghpvc/?username=ririgireddy&color=00ccfd)
+![](https://komarev.com/ghpvc/?username=ririgireddy&color=0a81ab)
 
 <!--
 **ririgireddy/ririgireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
