@@ -6,6 +6,7 @@
 # Heyo, I'm Ritvik 👋
 
 ### I'm a high-schooler from San Diego!
+- @ritvikir everywhere
 
 ![](https://komarev.com/ghpvc/?username=ririgireddy&color=0a81ab)
 
