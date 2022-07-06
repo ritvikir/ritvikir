@@ -7,7 +7,7 @@
 
 ### I'm a Student from San Diego
 - @ritvikir everywhere
-- ritvikir@mit.edu
+
 
 ![](https://komarev.com/ghpvc/?username=ririgireddy&color=0a81ab)
 
